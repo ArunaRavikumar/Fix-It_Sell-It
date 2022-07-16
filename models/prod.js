@@ -19,8 +19,8 @@ let prodModel = mongoose.Schema(
         price: Number        
     },
     {
-        collection: "car"
+        collection: "products"
     }
 );
 
-module.exports = mongoose.model('car', prodModel);
+module.exports = mongoose.model('product', prodModel);

@@ -42,7 +42,7 @@ let UserSchema = mongoose.Schema(
         }
     },
     {
-        collection: "user"
+        collection: "users"
     }
 );
 

@@ -1,6 +1,8 @@
 // database connection
 
 // Do not expose your credentials in your code.
+//mongodb+srv://fixItGroup3:<password>@cluster0.omcrx.mongodb.net/?retryWrites=true&w=majority
+//sellItGroup3
 
   let atlasDB= "mongodb+srv://fixItGroup3:sellItGroup3@cluster0.omcrx.mongodb.net/?retryWrites=true&w=majority";
  

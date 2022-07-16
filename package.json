@@ -24,7 +24,7 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
   },
-  "description": "COMP229.M2022 - Midterm Template",
+  "description": "fixit.sellit",
   "main": "server.js",
   "keywords": [
     "COMP229",
@@ -35,7 +35,7 @@
     "Mongo",
     "Passportjs."
   ],
-  "author": "Julio Vinicius",
+  "author": "Fixit",
   "license": "MIT",
   "repository": {
     "type": "git",

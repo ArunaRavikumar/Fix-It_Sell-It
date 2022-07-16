@@ -1,8 +1,6 @@
 
 // File Name: users.js
-// Author's Name: Aruna Ravi Kumar
-// Student ID: 301243154
-// Web app name: Car Applcation
+
 let express = require('express');
 let router = express.Router();
 let usersController = require('../controllers/user');

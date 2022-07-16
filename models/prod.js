@@ -1,9 +1,6 @@
 // Import
-// car model schema
-// File Name: car.js
-// Author's Name: Aruna Ravi Kumar
-// Student ID: 301243154
-// Web app name: Car Applcation
+// Product model schema
+
 let mongoose = require('mongoose');
 
 // Create a model class

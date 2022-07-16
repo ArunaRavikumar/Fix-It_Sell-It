@@ -1,8 +1,5 @@
 // database connection
-// File Name: db.js
-// Author's Name: Aruna Ravi Kumar
-// Student ID: 301243154
-// Web app name: Car Applcation
+
 // Do not expose your credentials in your code.
 
 // username: aruna password: midterm

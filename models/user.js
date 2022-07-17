@@ -1,8 +1,6 @@
 
 // File Name: user.js
-// Author's Name: Aruna Ravi Kumar
-// Student ID: 301243154
-// Web app name: Car Applcation
+
 let mongoose = require('mongoose');
 let crypto = require('crypto');
 let Schema = mongoose.Schema;
@@ -42,7 +40,7 @@ let UserSchema = mongoose.Schema(
         }
     },
     {
-        collection: "user"
+        collection: "users"
     }
 );
 
